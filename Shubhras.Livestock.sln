@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11911.148 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhras.Livestock", "Shubhras.Livestock\Shubhras.Livestock\Shubhras.Livestock.csproj", "{0B4DBB38-E092-465D-A034-74134EFEC68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhras.Livestock.Client", "Shubhras.Livestock\Shubhras.Livestock.Client\Shubhras.Livestock.Client.csproj", "{6EA22BC8-5EA1-4A92-B15A-CD5B3C835D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhras.Livestock.Domain", "Shubhras.Livestock.Domain\Shubhras.Livestock.Domain.csproj", "{ACCAF01E-5402-425E-825E-4614891E823E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhras.Livestock.Domain.Shared", "Shubhras.Livestock.Domain.Shared\Shubhras.Livestock.Domain.Shared.csproj", "{DC051877-CD12-4119-A8D8-1D5D63C64363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhras.Livestock.Application", "Shubhras.Livestock.Application\Shubhras.Livestock.Application.csproj", "{D1AB47C0-5E7C-4982-9904-D6F291F8694E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhras.Infra", "Shubhras.Infra\Shubhras.Infra.csproj", "{5AD49F19-3C86-4CB6-A222-5F5FA053F075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4DBB38-E092-465D-A034-74134EFEC68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4DBB38-E092-465D-A034-74134EFEC68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4DBB38-E092-465D-A034-74134EFEC68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4DBB38-E092-465D-A034-74134EFEC68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA22BC8-5EA1-4A92-B15A-CD5B3C835D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA22BC8-5EA1-4A92-B15A-CD5B3C835D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA22BC8-5EA1-4A92-B15A-CD5B3C835D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA22BC8-5EA1-4A92-B15A-CD5B3C835D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCAF01E-5402-425E-825E-4614891E823E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCAF01E-5402-425E-825E-4614891E823E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCAF01E-5402-425E-825E-4614891E823E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCAF01E-5402-425E-825E-4614891E823E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC051877-CD12-4119-A8D8-1D5D63C64363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC051877-CD12-4119-A8D8-1D5D63C64363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC051877-CD12-4119-A8D8-1D5D63C64363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC051877-CD12-4119-A8D8-1D5D63C64363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AB47C0-5E7C-4982-9904-D6F291F8694E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AB47C0-5E7C-4982-9904-D6F291F8694E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AB47C0-5E7C-4982-9904-D6F291F8694E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AB47C0-5E7C-4982-9904-D6F291F8694E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD49F19-3C86-4CB6-A222-5F5FA053F075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD49F19-3C86-4CB6-A222-5F5FA053F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD49F19-3C86-4CB6-A222-5F5FA053F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD49F19-3C86-4CB6-A222-5F5FA053F075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2568832A-32D1-48DC-8329-D3CD599E5BE4}
+	EndGlobalSection
+EndGlobal
